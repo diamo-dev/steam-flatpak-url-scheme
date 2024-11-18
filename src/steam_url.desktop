@@ -4,3 +4,4 @@ Name=Steam Deep Link
 Exec=steam %u
 StartupNotify=false
 MimeType=x-scheme-handler/steam;
+NoDisplay=true
