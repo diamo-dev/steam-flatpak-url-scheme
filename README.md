@@ -2,6 +2,10 @@
 
 Let `steam://` links connect to the Flatpak version.
 
+## Dependancies
+
+- shc: https://github.com/neurobin/shc
+
 ## Instructions
 
 1. Set working directory to cloned repo. `cd steam-flatpak-url-scheme`
