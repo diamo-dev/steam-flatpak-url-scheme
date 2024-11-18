@@ -4,7 +4,7 @@ Let `steam://` links connect to the Flatpak version.
 
 ## Dependancies
 
-- shc: https://github.com/neurobin/shc
+- https://github.com/neurobin/shc
 
 ## Instructions
 
